@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="FireFlyv1 [file:/E:/FireFlyv1/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../target/scala-2.11/classes" />
+    <output-test url="file://$MODULE_DIR$/../../target/scala-2.11/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/FireFly/sim" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/FireFly/source" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/Lib/source" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/scala" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: scala-sdk-2.11.12" level="project" />
+    <orderEntry type="library" name="sbt: ai.djl.pytorch:pytorch-engine:0.20.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: ai.djl:api:0.20.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.chuusai:shapeless_2.11:2.3.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.fommil.netlib:core:1.1.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.oshi:oshi-core:6.4.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.scopt:scopt_2.11:4.1.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.spinalhdl:spinalhdl-core_2.11:1.9.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.spinalhdl:spinalhdl-idsl-payload_2.11:1.9.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.spinalhdl:spinalhdl-idsl-plugin_2.11:1.9.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.spinalhdl:spinalhdl-lib_2.11:1.9.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.spinalhdl:spinalhdl-sim_2.11:1.9.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.wendykierp:JTransforms:3.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.code.gson:gson:2.10:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.lihaoyi:sourcecode_2.11:0.3.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: commons-io:commons-io:2.11.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.java.dev.jna:jna-platform:5.12.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.java.dev.jna:jna:5.12.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.openhft:affinity:3.23.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.sf.opencsv:opencsv:2.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.sourceforge.f2j:arpack_combined_all:0.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.commons:commons-compress:1.22:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.commons:commons-math3:3.5:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-collection-compat_2.11:2.1.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-parser-combinators_2.11:1.0.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-xml_2.11:1.3.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-compiler:2.11.12:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.11.12:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-reflect:2.11.12:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalactic:scalactic_2.11:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalanlp:breeze-macros_2.11:1.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalanlp:breeze_2.11:1.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-compatible:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-core_2.11:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-diagrams_2.11:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-featurespec_2.11:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-flatspec_2.11:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-freespec_2.11:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-funspec_2.11:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-funsuite_2.11:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-matchers-core_2.11:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-mustmatchers_2.11:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-propspec_2.11:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-refspec_2.11:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-shouldmatchers_2.11:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-wordspec_2.11:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest_2.11:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4j:slf4j-api:2.0.5:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4j:slf4j-simple:2.0.5:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:algebra_2.11:2.0.0-M2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-kernel_2.11:2.0.0-M4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:machinist_2.11:0.6.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:macro-compat_2.11:1.1.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:spire-macros_2.11:0.17.0-M1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:spire-platform_2.11:0.17.0-M1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:spire-util_2.11:0.17.0-M1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:spire_2.11:0.17.0-M1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.yaml:snakeyaml:1.33:jar" level="project" />
+    <orderEntry type="library" name="sbt: pl.edu.icm:JLargeArrays:1.5:jar" level="project" />
+  </component>
+</module>
